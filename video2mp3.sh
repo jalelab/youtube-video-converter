@@ -30,7 +30,7 @@ URL=$1
 
 # function: guide
 guide () {
-  echo "Youtube URL is required."
+  echo "Usage: video2mp3.sh video link ."
 }
 
 # function: download audio and convert to mp3
